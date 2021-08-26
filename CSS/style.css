@@ -41,7 +41,7 @@ body {
 .top-pic {
     width: 100%;
     height: 182px;
-    background: url('/Images/illustration-hero.svg');
+    background: url('../Images/illustration-hero.svg');
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
